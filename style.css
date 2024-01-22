@@ -708,3 +708,20 @@
 }
 
 /* Footer section end */
+
+/* Media Query Section */
+@media screen and (max-width:1200px){
+    .Container{
+     width: 80%;
+    }
+ }
+ @media screen and (max-width:992px){
+  
+ }
+ @media screen and (max-width:720px){
+   
+ }
+ @media screen and (max-width:576px){
+     
+ }
+ /* Media Query Section end */
